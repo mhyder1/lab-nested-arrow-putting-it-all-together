@@ -1,4 +1,6 @@
-
+const createLoginTracker = () => {
+  return {}
+}
 
 
 module.exports = {
